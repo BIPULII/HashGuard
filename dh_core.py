@@ -2,8 +2,8 @@
 import random
 
 def generate_parameters():
-    p = 23  # prime
-    g = 5   # primitive root
+    p = 7919  # prime
+    g = 7      # primitive root
     return p, g
 
 def generate_private_key(p):
